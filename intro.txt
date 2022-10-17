@@ -1,4 +1,2 @@
 Gitを編集する：
-tetetete--n
-edamame is delicious
-edamame phone
+diff
